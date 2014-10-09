@@ -1,8 +1,15 @@
+.nav {
+	background-color: #06127A;
+	border-color: #fff;
+	color: #D7FFF4;
+
+}
+
 .intro-message {
 	text-align: center;
-	padding-top: 16%;
-	padding-bottom: 10%;
-	color: #0A0F2E;
+	padding-top: 12%;
+	padding-bottom: 2%;
+	color: #06127A;
 }
 body {
 	background: url(squared_metal_@2X.png) repeat;
@@ -10,8 +17,13 @@ body {
 .signup-form {
 	color: #fff;
 	text-align: center;
+	padding-bottom: 8%;
 }
 
 .email {
 	color: #000;
+}
+
+.feature-list {
+	color: #06127A;
 }
